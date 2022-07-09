@@ -1,5 +1,7 @@
 # EDA_Capstone_Hotel_Booking
 
+#### The data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. All personally identifying information has been removed from the data.
+
 Explore and analyze the data to discover important factors that govern the bookings.
 
 As we know that in this new era of “Digitalization” everbody wants to handle things online like Purchasing House-Hold Items , Ordering Food Online ,Online Shopping ,Booking Travel Tickets Online, and also the Hotel Booking which is a very important part of Hospitality Industry and Online Hotel Booking has “Revolutionarized” this “Hospitality Industry”.
