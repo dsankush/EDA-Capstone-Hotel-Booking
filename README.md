@@ -25,8 +25,7 @@ EDA-Capstone-Hotel-Booking  </h1>
 
 <h4>Source Directories:</h4>
 <ul>
-  <li><b>TRAIN-HEALTH 
-Hotel Bookings.csv</b> - Includes all the required data for the EDA task.</li>
+  <li><b>Hotel Bookings.csv</b> - Includes all the required data for the EDA task.</li>
 </ul>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
