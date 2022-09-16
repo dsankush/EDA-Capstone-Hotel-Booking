@@ -30,10 +30,6 @@ EDA-Capstone-Hotel-Booking  </h1>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
 <h2> :clipboard: Execution Instruction</h2>
 <p>The order of execution of the program files is as follows:</p>
 <p><b>1) Hotel_Booking_Analysis_Capstone_Project.ipynb</b></p>
