@@ -37,8 +37,8 @@ Hotel Bookings.csv</b> - Includes all the required data for the EDA task.</li>
 
 <h2> :clipboard: Execution Instruction</h2>
 <p>The order of execution of the program files is as follows:</p>
-<p><b>1) Health_Insurance_Cross_Sell_Prediction.ipynb</b></p>
-<p>The Health_Insurance_Cross_Sell_Prediction.ipynb is to be executed to access all the analysis done for classification operations.</p>
+<p><b>1) Hotel_Booking_Analysis_Capstone_Project.ipynb</b></p>
+<p>Hotel_Booking_Analysis_Capstone_Project.ipynb is to be executed to access all the analysis done for classification operations.</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
